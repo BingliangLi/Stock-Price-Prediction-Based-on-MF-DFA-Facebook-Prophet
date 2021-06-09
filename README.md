@@ -9,4 +9,9 @@
 制和管理金融风险具有一定的现实意义。
 
 
-#关键词#: 多重分形，MF-DFA，多重分形谱，金融市场，时间序列
+**关键词**: 多重分形，MF-DFA，多重分形谱，金融市场，时间序列
+
+
+Google Colabtory:
+https://colab.research.google.com/drive/17IdTEdMHWj1ACsk-BiL0zatNAzCv0wWP?usp=sharing
+https://colab.research.google.com/drive/1kZXrHLjLPXDnLtQ6l18ULWu3WScM4QQ0?usp=sharing
