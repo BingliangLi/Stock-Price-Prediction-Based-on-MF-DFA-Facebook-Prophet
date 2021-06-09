@@ -13,5 +13,5 @@
 
 
 Google Colabtory:
-https://colab.research.google.com/drive/17IdTEdMHWj1ACsk-BiL0zatNAzCv0wWP?usp=sharing
-https://colab.research.google.com/drive/1kZXrHLjLPXDnLtQ6l18ULWu3WScM4QQ0?usp=sharing
+- Prophet_SHA.ipynb: https://colab.research.google.com/drive/1kZXrHLjLPXDnLtQ6l18ULWu3WScM4QQ0?usp=sharing
+- Prophet_SZSE.ipynb: https://colab.research.google.com/drive/17IdTEdMHWj1ACsk-BiL0zatNAzCv0wWP?usp=sharing
